@@ -1,28 +1,28 @@
-LaunchID,LaunchName,BodyofWater,lat,lng
-18868,Abbotts Lagoon,Abbott's Lagoon,38.119215,-122.951055
-17882,Martinez Marina,Carquenez Straits,38.025881,-122.137248
-20332,Eckley Pier,Carquinez Strait,38.053905,-122.201962
-21538,Benicia Marina,Carquinez Strait ,38.044632,-122.153569
-18867,Drakes Estero,Drakes Estero,38.082768,-122.93246
-17931,Hudeman Slough,Hudeman Slough,38.20627,-122.375424
-18866,Whitehouse Pool,Lagunitas Creek,38.062782,-122.816919
-19417,Lake Chabot Regional Park,Lake Chabot,37.716998,-122.104271
-17419,Vallejo ( Brinkmans) Marina,Napa River,38.096078,-122.257852
-23721,Trancas Crossing Park,Napa River,38.326811,-122.284301
-12996,Jarvis Landing,Newark Slough,37.528662,-122.063661
-19967,Linda Mar/Taco Bell Beach,Pacific Ocean,37.598295,-122.502639
-17885,Lakeville/Papa's Taverna,Petaluma River,38.197659,-122.547415
-20820,Petaluma Marina,Petaluma River,38.230831,-122.615188
-20154,Half Moon Bay Yacht Club,Pillar Point Harbor,37.502798,-122.490703
-17881,"Ferry Point, Richmond",S.F. Bay,37.909717,-122.387837
-19746,Paradise Beach County Park,San Francisco Bay,37.893389,-122.457863
-21969,SF Bay Trail West Frontage Road,San Francisco Bay,37.851696,-122.300269
-21605,Marina Bay Yacht Harbor,San Francisco Bay,37.914214,-122.354308
-19630,Cooley Landing,San Francisco Bay,37.475915,-122.121362
-22262,Loch Lomond Marina,San Pablo Bay,37.971898,-122.484156
-20333,Lone Tree Regional Park,San Pablo Bay,38.036604,-122.274513
-18322,San Pablo Dam Reservoir ,San Pablo Dam Reservoir ,37.934989,-122.255919
-19445,Parkside Aquatic Park,Seal Slough - SF Bay,37.559885,-122.291153
-16922,McGinnis Park,SF Bay Wetlands,38.018091,-122.522974
-23677,Marconi Cove,Tomales Bay,38.140857,-122.873687
-17866,"Heart's Desire Beach, Tomales Bay State Park",Tomales Bay,38.13254,-122.892883
+LaunchID|Launch Name|Body of Water|lat|lng
+18868|Abbotts Lagoon|Abbott's Lagoon|38.119215|-122.951055
+17882|Martinez Marina|Carquenez Straits|38.025881|-122.137248
+20332|Eckley Pier|Carquinez Strait|38.053905|-122.201962
+21538|Benicia Marina|Carquinez Strait |38.044632|-122.153569
+18867|Drakes Estero|Drakes Estero|38.082768|-122.93246
+17931|Hudeman Slough|Hudeman Slough|38.20627|-122.375424
+18866|Whitehouse Pool|Lagunitas Creek|38.062782|-122.816919
+19417|Lake Chabot Regional Park|Lake Chabot|37.716998|-122.104271
+17419|Vallejo ( Brinkmans) Marina|Napa River|38.096078|-122.257852
+23721|Trancas Crossing Park|Napa River|38.326811|-122.284301
+12996|Jarvis Landing|Newark Slough|37.528662|-122.063661
+19967|Linda Mar/Taco Bell Beach|Pacific Ocean|37.598295|-122.502639
+17885|Lakeville/Papa's Taverna|Petaluma River|38.197659|-122.547415
+20820|Petaluma Marina|Petaluma River|38.230831|-122.615188
+20154|Half Moon Bay Yacht Club|Pillar Point Harbor|37.502798|-122.490703
+17881|Ferry Point, Richmond|S.F. Bay|37.909717|-122.387837
+19746|Paradise Beach County Park|San Francisco Bay|37.893389|-122.457863
+21969|SF Bay Trail West Frontage Road|San Francisco Bay|37.851696|-122.300269
+21605|Marina Bay Yacht Harbor|San Francisco Bay|37.914214|-122.354308
+19630|Cooley Landing|San Francisco Bay|37.475915|-122.121362
+22262|Loch Lomond Marina|San Pablo Bay|37.971898|-122.484156
+20333|Lone Tree Regional Park|San Pablo Bay|38.036604|-122.274513
+18322|San Pablo Dam Reservoir |San Pablo Dam Reservoir |37.934989|-122.255919
+19445|Parkside Aquatic Park|Seal Slough - SF Bay|37.559885|-122.291153
+16922|McGinnis Park|SF Bay Wetlands|38.018091|-122.522974
+23677|Marconi Cove|Tomales Bay|38.140857|-122.873687
+17866|Heart's Desire Beach, Tomales Bay State Park|Tomales Bay|38.13254|-122.892883
